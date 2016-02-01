@@ -12,3 +12,5 @@ A simple URL shortener created with Node.js + Express.js + MySQL. This project i
 ## Note
 
 This script is meant to be used as a public URL shortener. If you want to use this script for personal use, you have to include some sort of authentication.
+
+Partition tolerance test demo : `https://www.youtube.com/watch?v=JuaxOuelJ-0`
